@@ -1,0 +1,19 @@
+{
+  "name": "CoWrks",
+  "version": "1.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "prop-types": ">=15.5.0",
+    "react-icons": "3.3.0",
+    "react-native-elements": "1.0.0",
+    "react-native-paper": "2.2.8",
+    "react-native-swipe-list-view": "1.5.1",
+    "react-navigation": "3.0.9"
+  }
+}
